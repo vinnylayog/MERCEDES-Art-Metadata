@@ -1,7 +1,7 @@
 {
   "metadata": [
-    { "id": 0, "name": "Fruition", "image": "https://gateway.pinata.cloud/ipfs/QmP293XRFkABLrEx9rVpbP1TCk79UepTFAo2Awj7nLe52i/0.png", "details": "24x24 acrylic on canvas" }
-    { "id": 1, "name": "Believe #4", "image": "https://gateway.pinata.cloud/ipfs/QmP293XRFkABLrEx9rVpbP1TCk79UepTFAo2Awj7nLe52i/1.png", "details": "24x24 acrylic on canvas" }
+    { "id": 0, "name": "Fruition", "image": "https://gateway.pinata.cloud/ipfs/QmP293XRFkABLrEx9rVpbP1TCk79UepTFAo2Awj7nLe52i/0.png", "details": "24x24 acrylic on canvas" },
+    { "id": 1, "name": "Believe #4", "image": "https://gateway.pinata.cloud/ipfs/QmP293XRFkABLrEx9rVpbP1TCk79UepTFAo2Awj7nLe52i/1.png", "details": "24x24 acrylic on canvas" },
     { "id": 2, "name": "KAO", "image": "https://gateway.pinata.cloud/ipfs/QmP293XRFkABLrEx9rVpbP1TCk79UepTFAo2Awj7nLe52i/2.png", "details": "24x30 acrylic on canvas" }
   ]
 }
